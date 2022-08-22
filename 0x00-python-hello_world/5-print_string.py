@@ -1,3 +1,3 @@
-#!/usr/bin/python3
+i#!/usr/bin/python3
 str = "Holberton School"
-print(f"Float: {str}\n")
+print(f"{3 * str}\n{str[:9]}\n")
