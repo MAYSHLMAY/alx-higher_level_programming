@@ -1,18 +1,7 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
+# Author - Mikiyas Dawit
+
 def remove_char_at(str, n):
-    str_copy = ""
     if n < 0:
-        return str
-    else:
-        for i in range(len(str)):
-            if i == n:
-                continue
-            else:
-                str_copy += str[i]
-        return str_copy
-
-
-
-
-   
-
+        return (str)
+    return (str[:n] + str[n+1:])
