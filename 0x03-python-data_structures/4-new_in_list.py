@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-
-
 def new_in_list(my_list, idx, element):
     """
     A function that replaces an element in a list at 
