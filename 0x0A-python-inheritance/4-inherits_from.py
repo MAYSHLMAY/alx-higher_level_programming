@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-''' module: 4-inherits_from
-'''
+''' module: 4-inherits_from'''
 
 
 def inherits_from(obj, a_class):
