@@ -1,5 +1,4 @@
 # 7-base_geometry.txt
-# Mikiyas Abera <educationforlife424@gmail.com>
 
 =============================
 How to Use 7-base_geometry.py
