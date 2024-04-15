@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-''' module: 4-inherits_from'''
+''' module: 4-inherits_from '''
 
 
 def inherits_from(obj, a_class):
-    '''the object is an instance of a class
+    ''' the object is an instance of a class
     obj: an object
     a_class: a class
     returns: True if the object is an instance
